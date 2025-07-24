@@ -1,0 +1,7 @@
+# test: C:/Yolo/yolov5/data/images/test
+train: C:/Yolov7/images/train
+val:   C:/Yolov7/images/val
+
+names: ["head" , "helmet" , "person"]
+
+nc: 3
